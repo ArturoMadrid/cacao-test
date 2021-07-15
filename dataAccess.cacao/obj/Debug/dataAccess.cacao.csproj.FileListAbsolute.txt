@@ -1,0 +1,7 @@
+C:\Users\Jose Madrid\source\repos\cacao-test\dataAccess.cacao\bin\Debug\dataAccess.cacao.dll.config
+C:\Users\Jose Madrid\source\repos\cacao-test\dataAccess.cacao\bin\Debug\dataAccess.cacao.dll
+C:\Users\Jose Madrid\source\repos\cacao-test\dataAccess.cacao\bin\Debug\dataAccess.cacao.pdb
+C:\Users\Jose Madrid\source\repos\cacao-test\dataAccess.cacao\obj\Debug\dataAccess.cacao.csprojAssemblyReference.cache
+C:\Users\Jose Madrid\source\repos\cacao-test\dataAccess.cacao\obj\Debug\dataAccess.cacao.csproj.CoreCompileInputs.cache
+C:\Users\Jose Madrid\source\repos\cacao-test\dataAccess.cacao\obj\Debug\dataAccess.cacao.dll
+C:\Users\Jose Madrid\source\repos\cacao-test\dataAccess.cacao\obj\Debug\dataAccess.cacao.pdb

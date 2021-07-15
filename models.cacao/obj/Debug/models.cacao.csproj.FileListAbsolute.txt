@@ -1,0 +1,6 @@
+C:\Users\Jose Madrid\source\repos\cacao-test\models.cacao\bin\Debug\models.cacao.dll
+C:\Users\Jose Madrid\source\repos\cacao-test\models.cacao\bin\Debug\models.cacao.pdb
+C:\Users\Jose Madrid\source\repos\cacao-test\models.cacao\obj\Debug\models.cacao.csproj.CoreCompileInputs.cache
+C:\Users\Jose Madrid\source\repos\cacao-test\models.cacao\obj\Debug\models.cacao.dll
+C:\Users\Jose Madrid\source\repos\cacao-test\models.cacao\obj\Debug\models.cacao.pdb
+C:\Users\Jose Madrid\source\repos\cacao-test\models.cacao\obj\Debug\models.cacao.csprojAssemblyReference.cache
